@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "WordBridge — Read. Understand. Remember.",
+      "hasCanvas": false,
+      "bodyTextLen": 1925,
+      "bodyTextHash": "6c6a634b753f5952089cb642b492a9b800d922396158539eec64b0ecbea72ef7",
+      "bodyTextPrefix": "Skip to content WordBridge Explore Practice Progress Explore Art",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "WordBridge — Read. Understand. Remember.",
+      "hasCanvas": false,
+      "bodyTextLen": 1759,
+      "bodyTextHash": "250d7f780a3f5d66d2904093848208a4cc76760d226f0684f10d05e39e41fbb3",
+      "bodyTextPrefix": "Skip to content WordBridge Start Reading WORDBRIDGE Build better",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
